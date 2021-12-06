@@ -1,5 +1,5 @@
 # Demo of My Clone
-# myairbnb-clone.netlify.app
+myairbnb-clone.netlify.app
 
 This clone actually should be deployed on Vercel but I turned to my trusted agent NETLIFY.
 
