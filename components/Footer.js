@@ -6,7 +6,7 @@ function Footer() {
                 <h5 className="font-bold text-lg underline">ABOUT</h5>
                 <p className="font-light font-serif cursor-pointer hover:scale-105 transform transition duration-200 ease-in-out">How Airbnb Works</p>
                 <p className="font-light font-serif cursor-pointer hover:scale-105 transform transition duration-200 ease-in-out">Newsroom</p>
-                <p className="font-light font-serif cursor-pointer hover:scale-105 transform transition duration-200 ease-in-out">Inveestors</p>
+                <p className="font-light font-serif cursor-pointer hover:scale-105 transform transition duration-200 ease-in-out">Investors</p>
                 <p className="font-light font-serif cursor-pointer hover:scale-105 transform transition duration-200 ease-in-out">Airbnb Plus</p>
                 <p className="font-light font-serif cursor-pointer hover:scale-105 transform transition duration-200 ease-in-out">Airbnb Luxe</p>
             </div>
